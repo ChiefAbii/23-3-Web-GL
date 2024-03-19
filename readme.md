@@ -9,4 +9,3 @@ git clone <Platzhalter>
 cd <Platzhalter>
 code .
 ```
-
