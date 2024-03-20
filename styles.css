@@ -1,11 +1,10 @@
-/*Kommentar in CSS*/
-
-/* CSS-Selektoren*/
-
-/*Element-Selektoren => body, main, p, img, h1, h2,...
-Class-Selektor => .card, .header, etc.
-ID-Selektor => #card1, #theme-toggle, #submit-btn Atribute-Selektor => todo*/
-
+/* CSS-Selektoren */
+/* 
+    Element-Selektoren => body, main, p, img, h1, h2,...
+    Class-Selektor => .card, .header, .buxtehude
+    Id-Selektor => #card1, #theme-toggle, #submit-btn
+    Attribute-Selektor => todo
+*/
 body {
     background-color: #8c8c8c;
 }
@@ -18,13 +17,12 @@ main {
     margin: 20px;
 }
 
-li.fette-Liste {
+li.fette-liste {
     font-weight: 900;
 }
 
 li.custom-list-item {
     margin: 15px;
-    
 }
 
 h1#main-title {
