@@ -1,6 +1,6 @@
-# Webentwicklungs- Grundlagen
+# Webentwicklungs-Grundlagen
 
-Diese Respository ist eine Sammlung an Lernmaterialien für den Einstieg in die Webentwicklung
+Dieses Repository ist eine Sammlung an Lernmaterialien für den Einstieg in die Webentwicklung.
 
 ## Getting Started
 
