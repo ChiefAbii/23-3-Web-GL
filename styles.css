@@ -6,27 +6,38 @@
     Attribute-Selektor => todo
 */
 body {
-    background-color: #8c8c8c;
+  background-color: #6d6d6d;
+  color: white;
+  margin: 0;
+  padding: 0;
+  /* 1 rem => default-browser-fontsize => 16px*/
+  font-size: 1.5rem;
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-style: italic;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
 }
 
 main {
-    margin: 20px;
+  margin: 20px;
 }
 
-li.fette-liste {
+/*li.fette-liste {
     font-weight: 900;
 }
 
 li.custom-list-item {
     margin: 15px;
 }
+*/
 
 h1#main-title {
-    font-size: 2em;
-    text-shadow: 5px 5px 5px #fefefe;
-    font-style: normal;
+  font-size: 3em;
+  text-shadow: 2px 2px 2px #000;
+  font-style: normal;
+}
+p {
+  margin: 5px;
 }
